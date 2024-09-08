@@ -67,10 +67,9 @@ flowchart LR
             C --> F(Scelta equipaggiamento)
             D & E & F --> G(Analisi delle performance)
             G --> H(Revisione e correzione)
-            H --> I(Verifica informazioni)
-            I --> L{Guida accurata?}
-        L --> |Sì| Y(Formattazione Finale)
-        L --> |No| C(Prima valutazione e bozza)
+            H --> I{Guida accurata?}
+        I --> |Sì| Y(Formattazione Finale)
+        I --> |No| C(Prima valutazione e bozza)
 
     B -->|Meccanica| M(Raccolta informazioni)
         M --> N(Test della meccanica)
