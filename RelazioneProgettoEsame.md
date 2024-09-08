@@ -60,25 +60,24 @@ Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esem
 
 ```mermaid
 flowchart LR
-    A(Scelta del contenuto) --> B{è un personaggio?}
-        B --> |Sì| C(Prima valutazione e bozza)
+    A(Scelta del contenuto) --> B{Oggetto della guida}
+        B --> |Personaggio| C(Prima valutazione e bozza)
             C --> D(Valutazione delle abilità)
             C --> E(Scelta dei team)
-            C --> F(Scelta dell'equipaggiamento)
-            D & E & F --> G(Analisi e Comparazione delle performance)
+            C --> F(Scelta equipaggiamento)
+            D & E & F --> G(Analisi delle performance)
             G --> H(Revisione e correzione)
-            H --> I[Verifica informazioni aggiornate]
+            H --> I(Verifica informazioni)
             I --> L{Guida completa ed accurata?}
         L --> |Sì| Y(Formattazione Finale)
-    Y--> Z(Pubblicazione della guida)
+        L --> |No| C(Prima valutazione e bozza)
 
-    B -->|No| M{è una meccanica di gioco?}
-        M -->|Sì| N(Raccolta informazioni)
-            N--> O(Test della meccanica)
-            O --> P{Risultati coerenti?}
-    P -->|Sì| Y(Formattazione Finale)
+    B -->|Meccanica| M(Raccolta informazioni)
+        M --> N(Test della meccanica)
+        N--> O{Risultati coerenti?}
+            O -->|Sì| P(Scrittura contenuto)
+            P --> Y(Formattazione Finale)
     Y--> Z(Pubblicazione della guida)
-
 
 ```
 
