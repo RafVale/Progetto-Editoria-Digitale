@@ -57,20 +57,29 @@ Descrivere le fonti che saranno utilizzate nella costruzione del prodotto editor
 Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, (i) la raccolta o produzione dei contenuti, (ii) la valutazione dei diritti, (iii) la trasformazione dei formati, (iv) la strutturazione dei contenuti, (v) l'applicazione dello stile grafico, (vi) la generazione dei metadati, (vii) la distribuzione dei contenuti. Nella descrizione del flusso considerare le  fasi di revisione, controllo e approvazione che possono richiedere le diverse fasi.
 
 > LM2 slide 14-26
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 
 ```mermaid
 flowchart LR
     A(Scelta del contenuto) --> B{è un personaggio?}
-    B --> |Sì| C(Analisi del kit)
-    B -->|One| D[Result one]
-    C -->|Two| E[Result two]
+        B --> |Sì| C(Prima valutazione e bozza)
+            C --> D(Valutazione delle abilità)
+            C --> E(Scelta dei team)
+            C --> F(Scelta dell'equipaggiamento)
+            D & E & F --> G(Analisi e Comparazione delle performance)
+            G --> H(Revisione e correzione)
+            H --> I[Verifica informazioni aggiornate]
+            I --> L{Guida completa ed accurata?}
+        L --> |Sì| Y(Formattazione Finale)
+    Y--> Z(Pubblicazione della guida)
+
+    B -->|No| M{è una meccanica di gioco?}
+        M -->|Sì| N(Raccolta informazioni)
+            N--> O(Test della meccanica)
+            O --> P{Risultati coerenti?}
+    P -->|Sì| Y(Formattazione Finale)
+    Y--> Z(Pubblicazione della guida)
+
+
 ```
 
 ```mermaid
