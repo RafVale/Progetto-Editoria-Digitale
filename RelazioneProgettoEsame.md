@@ -77,7 +77,7 @@ flowchart LR
 flowchart TD
     A[Avvio della scrittura della guida] --> B[Ricerca e raccolta informazioni sul personaggio]
     B --> C[Analisi delle abilità e statistiche]
-    C --> D[Determinazione del ruolo del personaggio (DPS, Healer, Support, ecc.)]
+    C --> D[Determinazione del ruolo del personaggio]
     D --> E[Scrittura della bozza]
     E --> F[Descrizione del personaggio]
     E --> G[Descrizione delle abilità e utilizzo]
