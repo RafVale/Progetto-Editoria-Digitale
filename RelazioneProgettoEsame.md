@@ -84,7 +84,7 @@ flowchart TD
     E --> H[Raccomandazioni armi e artefatti]
     E --> I[Suggerimenti per team composition]
     F & G & H & I --> J[Revisione e correzione]
-    J --> K[Verifica informazioni aggiornate (patch, cambiamenti)]
+    J --> K[Verifica informazioni aggiornate]
     K --> L{Informazioni complete?}
     L -- Sì --> M[Formattazione finale]
     L -- No --> B
