@@ -67,7 +67,7 @@ C --> D
 
 ```mermaid
 flowchart LR
-    A(Scelta del contenuto da approfondire) --> B{è un personaggio?}
+    A(Scelta del contenuto) --> B{è un personaggio?}
     B --> |Sì| C(Analisi del kit)
     B -->|One| D[Result one]
     C -->|Two| E[Result two]
