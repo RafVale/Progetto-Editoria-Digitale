@@ -68,7 +68,7 @@ flowchart LR
             D & E & F --> G(Analisi delle performance)
             G --> H(Revisione e correzione)
             H --> I(Verifica informazioni)
-            I --> L{Guida completa ed accurata?}
+            I --> L{Guida accurata?}
         L --> |Sì| Y(Formattazione Finale)
         L --> |No| C(Prima valutazione e bozza)
 
@@ -76,27 +76,9 @@ flowchart LR
         M --> N(Test della meccanica)
         N--> O{Risultati coerenti?}
             O -->|Sì| P(Scrittura contenuto)
-            P --> Y(Formattazione Finale)
+            O -->|No| M(Raccolta informazioni)
+        P --> Y(Formattazione Finale)
     Y--> Z(Pubblicazione della guida)
-
-```
-
-```mermaid
-flowchart TD
-    A[Avvio della scrittura della guida] --> B[Ricerca e raccolta informazioni sul personaggio]
-    B --> C[Analisi delle abilità e statistiche]
-    C --> D[Determinazione del ruolo del personaggio]
-    D --> E[Scrittura della bozza]
-    E --> F[Descrizione del personaggio]
-    E --> G[Descrizione delle abilità e utilizzo]
-    E --> H[Raccomandazioni armi e artefatti]
-    E --> I[Suggerimenti per team composition]
-    F & G & H & I --> J[Revisione e correzione]
-    J --> K[Verifica informazioni aggiornate]
-    K --> L{Informazioni complete?}
-    L -- Sì --> M[Formattazione finale]
-    L -- No --> B
-    M --> N[Pubblicazione della guida]
 ```
 
 ### Tecnologie adottate
