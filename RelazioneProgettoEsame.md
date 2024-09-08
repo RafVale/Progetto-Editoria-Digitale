@@ -1,33 +1,52 @@
 ---
 title: Relazione del progetto d'esame di Editoria Digitale
-author: Nome Cognome matricola studente
+author: Raffaele Valendino 922736
 date:  a.a. 2023/2024
 institute: Università degli Studi di Milano
 course: Editoria Digitale
-tags: tag1, tag2, tag3
+tags: Genshin, Guide, Progetto Editoria
 version: 0.1
 kind: Document
 bibliography: bibliografia.bib
 csl: IEEE.csl
 ---
 
-![Logo UNIMI](./logo/minerva.jpg){width=100px height=100px}
+![Logo del progetto](./logo/First Draft.jpg){width=300px height=300px}
 
-# Titolo Progetto d'Esame
-Guida completa al videogioco: Genshin Impact
-
+# Il manuale dell'Avventuriero
+Una serie di guide per vivere a pieno il vostro viaggio per Teyvat
 
 ## Introduzione
 
-Guida enciclopedica al mondo di Teyvat ed alle meccaniche del gioco Genshin Impact: dalle 
+Collana di guide dedicata al mondo del videogioco Genshin Impact: Dalla storia di Teyvat fino alle meccaniche di  ed alle meccaniche del gioco Genshin Impact: dalle meccaniche di gioco fino alla 
 *Obiettivi*, *tecnologie*, aspetti salienti del *flusso di gestione documentale*, *risultati* raggiunti.  
 
 ## Ideazione 
 
 ### Tema
-Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
+La collana copre diversi aspetti del gioco, spaziando dal sistema di combattimento alla storia, rendendola adatta sia per principianti che per giocatori esperti.
 
-> LM2 slide 28
+- Esplorazione di Teyvat:
+    - Lore: Approfondimenti sulla storia e sulla mitologia del mondo di gioco, con particolare enfasi sulle Pietre Divine.
+    - Missioni: Approfondimenti sulle missioni principali, secondarie e walkthrough dettagliati su come ottenere tutti gli Achievement del gioco.
+    \
+- Sistema di combattimento:
+    - Reazioni Elementali: Dettagli sul funzionamento delle reazioni elementali e su come sfruttarle in modo ottimale.
+    - Composizione dei team: Consigli per creare squadre efficaci, sfruttando al massimo le reazioni elementali e le abilità dei personaggi.
+    \
+- Personaggi:
+    - Personaggi: Analisi dettagliata dei personaggi giocabili comprensiva di team, costellazioni, armi, artefatti e team dove possono essere giocati.
+    - Analisi del Meta: Analisi delle patch e delle perfomance dei vari personaggi giocabili per capire su quali personaggi conviene investire.
+    \
+- Sistemi di gioco:
+    - Creazione di un account sicuro: La sicurezza è importante ed è ciò che ci permette di intraprendere questo viaggio senza alcun timore di perdere progressi.
+    - Valute di gioco: Consigli per ottenere il massimo dalle valute di gioco.
+    \
+
+Le principali fonti di attenzione sono il rilascio di una nuova regione, l'uscita di personaggi ogni patch ed il rilascio della quest annuale che espande in modo significativo 
+
+Questi temi garantiscono che la collana di guide resti interessante per una vasta gamma di giocatori nel corso nel tempo e che il suo contenuto scali con l'esperienza del giocatore.
+
 
 ![UNIMI](https://www.erasmusmilan.com/wp-content/uploads/2016/02/Statale-e1478865636847.jpg)
 
