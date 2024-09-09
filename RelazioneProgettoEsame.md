@@ -51,14 +51,70 @@ Questi temi garantiscono che la collana di guide resti interessante per una vast
 ![UNIMI](https://www.erasmusmilan.com/wp-content/uploads/2016/02/Statale-e1478865636847.jpg)
 
 ### Destinatari
-Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
+Il prodotto si rivolge a tutti gli appassionati di Genshin Impact offrendo loro guide dettagliate e risorse utili in base alla loro esperienza con il titolo.
 
-> LM2 slide 29-32
+1. Persona: Luca, giocatore principiante
+
+    - Nome: Luca
+    - Età: 19 anni
+    - Occupazione: Studente universitario
+    - Stile di vita: Divide il suo tempo tra gli studi universitari ed il gaming, hobby al quale si dedica spesso la sera o nei weekend e che usa per rilassarsi.
+    - Interessi: Viaggi, social media, serie TV, videogiochi.
+    - Esperienza: Ha iniziato a giocare da un mese
+    - Motivazione: Luca ha da poco scoperto Genshin Impact, attirato dalla similitudine ad altri titoli da lui giocati, ma si sente sopraffatto dalla complessità delle meccaniche di gioco e dalla quantità di contenuti.
+    - Casi d'uso della guida:
+        - Durante un combattimento Luca si ritrova contro un nemico al quale non riesce in alcun modo ad infliggere alcun danno. Messo in pausa il gioco, Luca consulta la guida e scopre cosa sono e come funzionano gli scudi elementali.
+        - Luca apre la mappa del gioco e, in alto a destra, vede una strano contatore di "resina".
+        - Luca ha appena ottenuto un nuovo personaggio ma non sa nè come usarlo nè in quali team inserirlo. Non volendo perdere tempo a testarlo lui stesso apre la guida e decidere di usare uno dei team lì riportati.
+
+2. Persona: Sofia, giocatrice esperta
+
+    - Nome: Sofia
+    - Età: 26 anni
+    - Occupazione: Streamer part-time
+    - Stile di vita: Streamma regolarmente su Twitch, condividendo le sue strategie e analisi con una piccola ma crescente base di follower.
+    - Esperienza: Giocatrice da oltre tre anni, AR 60
+    - Motivazione: Sofia è una giocatrice appassionata e vuole affrontare le sfide più difficili offerte dal gioco. È sempre alla ricerca di nuove build o strategie per ottenere il massimo dai suoi team.
+    - Casi d'uso della guida:
+        - Sofia sta preparando un'analisi per il suo pubblico e le servono informazioni precise sul funzionamento e danno inflitto dalle reazioni elementali. Consultando la guida recupera le formule di ciascuna reazione.
+        - Sofia ha visto che è appena uscito un nuovo personaggio ma non ha modo di testarlo lei stessa, consultando la guida può formare una prima opinione su di esso.
+        - 
+        Condividere le sue scoperte con la community attraverso il suo canale streaming.
+    Sfide: Ha bisogno di una guida che vada oltre le basi e offra un’analisi dettagliata delle sinergie tra i personaggi e delle build ottimali.
+    Uso della Guida: Sofia userà principalmente le sezioni più tecniche e dettagliate, come le build ottimali dei personaggi, le reazioni elementali e le strategie per affrontare i boss e l'Abisso Spira.
+
+
 
 ### Requisiti di accettazione
 Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiungere i destinatari. Quali modelli di fruizione consideriamo più efficaci per i nostri destinatari? Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
 
-> LM4
+1. Utilità percepita
+    - I giocatori percepiscono che la guida li aiuterà a migliorare nel gioco, ottimizzare le loro build, completare le missioni più velocemente ed ottenere ricompense migliori.
+    - Informazioni dettagliate su ogni aspetto del gioco
+    \
+    Risultato Atteso: I giocatori possono risparmiare tempo e risorse seguendo la guida.
+
+2. Facilità d'uso percepita
+    - La guida offre soluzioni pratiche e facilmente applicabili.
+    - Il linguaggio utilizzato nella guida è chiaro e comprensibile.
+    - La struttura della guida è simile a quella di altro contenuto ufficiale e fan-made, rendendola molto facile da utilizzare.
+    \
+    Risultato Atteso: Gli utenti possono rapidamente trovare le informazioni di cui hanno bisogno.
+
+3. Atteggiamento verso l'uso
+    - Feedback positivo sulla chiarezza e utilità delle informazioni fornite.
+    - Esperienza d'uso positiva che incoraggia a utilizzare la guida regolarmente.
+    \
+    Risultato Atteso: I giocatori sviluppano un atteggiamento favorevole nei confronti della guida, considerandola uno strumento essenziale per migliorare la propria esperienza di gioco.
+
+4. Intenzione comportamentale d'uso
+    - Essendo Genshin un Live Service Game sarà soggetto a molteplici aggiornamenti, ciascuno dei quali darà ragione di consultare la guida per scoprire tutte le novità del gioco e rimanere al passo con il gioco.
+    \
+    Risultato Atteso: I giocatori esprimono l'intenzione di continuare a utilizzare la guida per supportare la loro esperienza di gioco.
+
+5. Uso effettivo
+    \
+    Risultato Atteso: I giocatori utilizzano la guida in modo regolare per ottimizzare le loro scelte in gioco, dalle build ai team fino all'esplorazione.
 
 ### Canali di distribuzione
 Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
