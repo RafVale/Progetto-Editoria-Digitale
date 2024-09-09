@@ -1,0 +1,10 @@
+Mai usare le immagini free, sempre fare richiesta dei diritti e passare da agenzie che poi possono essere inserite nei crediti.
+Lato digitale tecnicamente si possono usare quelle di pubblico dominio, nel carteceo si preferisce comunque evitare
+
+Idea a caso: Realizzazione del testo di riferimento di un corso
+
+
+pandoc --embed-resources --standalone Testoutput.md -o Testoutput.html --css=stile.css
+
+
+pandoc -s RelazioneProgettoEsame.md -o RelazioneProgettoEsame.pdf --citeproc --filter mermaid-filter.cmd

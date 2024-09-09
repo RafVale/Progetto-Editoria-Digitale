@@ -1,0 +1,135 @@
+/* Stile globale del documento */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight:400;
+    line-height: 1.5;
+    color: #2e2e2e;
+    margin: 0 auto;
+    max-width: 50%;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+/* Stile per i titoli principali (h1, h2, h3) */
+h1 {
+    font-size: 2.5em;
+    font-family: inherit;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: inherit;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+h3 {
+    font-size: 1.5em;
+    font-family: inherit;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+/* Stile per i paragrafi */
+p {
+    font-size: 1em;
+    margin-bottom: 1.5em;
+}
+
+/* Elenco puntato e numerato */
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    margin-bottom: 1.5em;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 40px;
+    margin-bottom: 1.5em;
+}
+
+/* Stile per le immagini */
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 20px;
+}
+
+.figure_wrapper {
+    align-self: center;
+}
+
+/* Stile per le tabelle */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+/* Stile per i link */
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Stile per le citazioni */
+blockquote {
+    margin: 5px;
+    padding: 5px 20px;
+    background-color: #f9f9f9ca;
+    border-left: 5px solid #8B0000;
+    font-style: italic;
+    color: #555555;
+}
+
+/* Codice e evidenziazioni */
+code {
+    background-color: #f4f4f4;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Titoli secondari */
+.subtitle {
+    font-size: 1.3em;
+    color: #555555;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Evidenziazione delle sezioni importanti */
+.important {
+    background-color: #fef8c7;
+    padding: 10px;
+    border: 1px solid #f7e7a2;
+    margin-bottom: 20px;
+}
+
+/*TOC generata tramite Pandoc */
+#TOC {
+    float: left;
+    margin-left:-30%;
+}
