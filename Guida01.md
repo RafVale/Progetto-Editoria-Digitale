@@ -10,6 +10,7 @@ bibliography: bibliografiaGuida01.bib
 ---
 
 <div class="figure_wrapper">
+    
 ![Guida Arlecchino](TestText_files/ff462e67b50f33481848a.png)
 </div>
 
@@ -29,6 +30,7 @@ Guida aggiornata alla versione **4.6**
 # Talenti
 
 <div class="figure_wrapper">
+    
 ![Statistiche LV.10 -> LV.90 di Arlecchino](TestText_files/d9c8cb0f8fd54fe9d5c11.png)
 </div>
 
@@ -45,6 +47,7 @@ ripasso di **cosa sia un Bond of Life** (Legame Vitale), abbreviato per
 comodità in **BoL**:
 
 <div class="figure_wrapper">
+    
 ![Bond of Life](TestText_files/907407d831da789570307.png)
 </div>
 
@@ -156,6 +159,7 @@ Normal Attacks \> Elemental Burst \> Elemental Skill
 ## Costellazioni {#Costellazioni dir="auto"}
 
 <div class="figure_wrapper">
+    
 ![Costellazioni](TestText_files/f0507482287de1447b4f8.png)
 </div>
 
@@ -226,6 +230,7 @@ Arlecchino in un team Vape](TestText_files/95861245406ece004db38.png)
 ------------------------------------------------------------------------
 
 <div class="figure_wrapper">
+    
 ![KeyArt del Web Event dedicato ad Arlecchino](TestText_files/5e7396d4ce898d714c7b8.png)
 </div>
 
@@ -237,6 +242,7 @@ armi che le forniscono **Crit Rate**, **Crit DMG**, **ATK%, DMG%** e, se
 giocata **all\'interno di team Vape**, **EM**.
 
 <div class="figure_wrapper">
+    
 ![Alcune delle armi usate da Arlecchino](TestText_files/b6894a3f39405c20f226a.png)
 </div>
 
@@ -262,6 +268,7 @@ Guardiamo nel dettaglio **alcune delle armi raccomandate**:
 
 
 <div class="figure_wrapper">
+    
 ![Derivativa dei miei calcoli sulle armi utilizzate da
 Arlecchino in un team Vape](TestText_files/4ce3eb58955718abb2d1c.png)
 </div>
@@ -274,6 +281,7 @@ realizzato da me.
 ------------------------------------------------------------------------
 
 <div class="figure_wrapper">
+    
 ![Frame dal teaser "Sonno profondo"](TestText_files/2ad0c47a44f16d8f8510d.jpg)
 </div>
 
@@ -284,6 +292,7 @@ Arlecchino ha accesso ad una **vasta gamma di set**, la cui **efficacia
 non è però comparabile a quella del nuovo set** a lei dedicato.
 
 <div class="figure_wrapper">
+    
 ![](TestText_files/7d6760b2c95dc7049d0e5.png)
 </div>
 
@@ -333,6 +342,7 @@ trova in un **dominio molto efficiente da farmare** è probabile che
 **abbiate già un set pronto all\'uso**.\
 
 <div class="figure_wrapper">
+    
 ![Derivativa dei miei calcoli sui set di artefatti](TestText_files/61633f5add8f4fabbb4f0.png)
 </div>
 
@@ -346,6 +356,7 @@ realizzato da me.
 ### Statistiche degli artefatti
 
 <div class="figure_wrapper">
+    
 ![Main Stats consigliate per Arlecchino](TestText_files/ee77a74048deac129f502.png)
 </div>
 
@@ -357,6 +368,7 @@ possieda sufficiente EM.\
 
 
 <div class="figure_wrapper">
+    
 ![Sub Stats consigliate per Arlecchino](TestText_files/1dd1f59442000ff7ecd5a.png)
 </div>
 
@@ -367,6 +379,7 @@ solo se si intende utilizzare un team Vape**.
 ------------------------------------------------------------------------
 
 <div class="figure_wrapper">
+    
 ![Frame dal cortometraggio "Canzone tra le
 ceneri"](TestText_files/4b6c47c5edcc7eacefdb9.jpg)
 </div>
@@ -382,6 +395,7 @@ successive** scegliendo di **mantenere il BoL** **piuttosto che
 consumarlo per curarsi** tramite la Elemental Burst.
 
 <div class="figure_wrapper">
+    
 ![Profilo del danno inflitto da Arlecchino](TestText_files/de16a21c70e391cc56865.png)
 </div>
 
@@ -415,6 +429,7 @@ costruire intorno a lei:
 ### VV Vape
 
 <div class="figure_wrapper">
+    
 [![Esempio di team VV Vape per Arlecchino](TestText_files/208891df6ee5b11c560f9.png)](https://www.youtube.com/watch?v=OkqiCkh5e60)
 </div>
 
@@ -434,6 +449,7 @@ Vediamo ora un **esempio** di team così composto **in azione**:
 ### Petra Vape
 
 <div class="figure_wrapper">
+    
 [![Esempio di team Petra Vape per Arlecchino](TestText_files/6d86ebd59da51ea973289.png)](https://www.youtube.com/watch?v=jmYMsWSDmPM)
 </div>
 
@@ -450,6 +466,7 @@ Vediamo ora un **esempio** di team così composto **in azione**:
 ### Overload
 
 <div class="figure_wrapper">
+    
 [![Esempio di team Overload per Arlecchino](TestText_files/73dd0824e16c110d0e8cf.png)](https://www.youtube.com/watch?v=EEEL15HL6ic)
 </div>
 
@@ -469,6 +486,7 @@ Vediamo ora un **esempio** di team così composto **in azione**:
 ### MonoPyro
 
 <div class="figure_wrapper">
+    
 [![Esempio di team MonoPyro per Arlecchino](TestText_files/b12991bee0087c6d5a65e.png)](https://www.youtube.com/watch?v=NONsHaS0jm4)
 </div>
 
@@ -483,6 +501,7 @@ Vediamo ora un **esempio** di team così composto **in azione**:
 ### Double Geo
 
 <div class="figure_wrapper">
+    
 [![Esempio di team DoubleGeo per Arlecchino](TestText_files/3b32949e8899d13b5324d.png)](https://www.youtube.com/watch?v=V0UT-VgiBsg)
 </div>
 
@@ -501,6 +520,7 @@ Vediamo ora un **esempio** di team così composto **in azione**:
 ------------------------------------------------------------------------
 
 <div class="figure_wrapper">
+    
 ![Frame dal teaser "Sonno profondo"](TestText_files/c31926a0e359abc1dce7a.jpg)
 </div>
 
