@@ -178,8 +178,8 @@ Descrivere le tecnologie addottate nelle diverse fasi e discuterne il contributo
 |----------------|-------------------------------|-----------------------------|
 |Markdown | Qualunque scenario | `linguaggio di markup utilizzato per la scrittura del contenuto della guida.`|
 |Pandoc| |Conversione automatizza           |
-|Mermaid        | |-- is en-dash, --- is em-dash|
-|Git        |  |-- is en-dash, --- is em-dash|
+|Mermaid        | | Creazione di grafici dinamici|
+|Git        |  |Versioning e scrittura collaborativa|
 
 ### Esecuzione del flusso
 
