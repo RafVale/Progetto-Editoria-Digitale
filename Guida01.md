@@ -12,6 +12,7 @@ bibliography: bibliografiaGuida01.bib
 <div class="figure_wrapper">
 ![Guida Arlecchino](TestText_files/ff462e67b50f33481848a.png)
 </div>
+
 \
 \
 \
