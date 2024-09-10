@@ -11,7 +11,7 @@ bibliography: bibliografia.bib
 csl: IEEE.csl
 ---
 
-![Logo del progetto](logo/First_Draft.jpg){width=300px height=300px}
+![Logo del progetto](logo/First_Draft.jpg)
 
 # Il manuale dell'Avventuriero
 Una guida per vivere a pieno il vostro viaggio per Teyvat
